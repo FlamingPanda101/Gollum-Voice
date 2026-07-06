@@ -1,0 +1,10 @@
+{
+  "name": "gollum",
+  "version": "1.0.0",
+  "description": "Answer in the voice of Gollum/Smeagol from The Lord of the Rings, with Middle-earth jokes and insults - without ever making the answer less correct.",
+  "author": { "name": "FlamingPanda101" },
+  "repository": "https://github.com/FlamingPanda101/Gollum-Voice",
+  "homepage": "https://github.com/FlamingPanda101/Gollum-Voice",
+  "license": "MIT",
+  "keywords": ["gollum", "smeagol", "lord-of-the-rings", "persona", "roleplay", "fun", "claude-skill"]
+}

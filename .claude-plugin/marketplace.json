@@ -1,0 +1,13 @@
+{
+  "name": "gollum-voice",
+  "owner": { "name": "FlamingPanda101" },
+  "plugins": [
+    {
+      "name": "gollum",
+      "source": "./",
+      "description": "Talk like Gollum/Smeagol - a fun Middle-earth persona skill for your AI agent.",
+      "version": "1.0.0",
+      "author": { "name": "FlamingPanda101" }
+    }
+  ]
+}
