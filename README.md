@@ -22,15 +22,17 @@ This is purely for fun. Unlike token-saving persona skills, Gollum is gloriously
 
 This is a standard Claude skill (a folder with a `SKILL.md`). Install it wherever you use skills.
 
+**Quickest — install the packaged skill:** download [`gollum.skill`](./gollum.skill) from this repo and open/install it through your client's skill installer (in Cowork: Settings → Capabilities).
+
 **Claude Code / Cowork — from this repo:**
 
 ```bash
-git clone https://github.com/<your-username>/gollum.git
+git clone https://github.com/FlamingPanda101/Gollum-Voice.git
 ```
 
-Then place the `gollum/` folder in your skills directory, or install the packaged `gollum.skill` file through your client's skill installer (in Cowork: Settings → Capabilities).
+Then place the cloned folder into your skills directory (rename it to `gollum` if you like), so the path looks like `…/skills/gollum/SKILL.md`. The `references/jokes.md` file must stay alongside `SKILL.md`.
 
-**Manual:** copy the `gollum/` folder into your skills location so the path looks like `…/skills/gollum/SKILL.md`.
+**Manual:** copy `SKILL.md` and the `references/` folder into a folder in your skills location so the path looks like `…/skills/gollum/SKILL.md`.
 
 ---
 
